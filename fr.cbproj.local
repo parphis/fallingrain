@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.449,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OKCANCL2.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\mainU.dfm=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\mainU.cpp=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OKCANCL2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OptionsU.dfm=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OKCANCL.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\Logger.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\fr.cbproj=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OptionsU.h=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OKCANCL.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OptionsU.cpp=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OKCANCL.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\mainU.h=D:\Users\istvan_vig\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,=D:\Users\istvan_vig\Documents\RAD Studio\Projects\FR\OKCANCL.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
